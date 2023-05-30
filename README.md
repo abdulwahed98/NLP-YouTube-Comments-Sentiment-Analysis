@@ -3,7 +3,7 @@
 An end-to-end toolkit on building a sentiment prediction model with a Jupyer notebook and deploying model pickle on Heroku using flask. Our use case here is review classification of YouTube comments on Samsung Galaxy S23 Ultra into positive, neutral & negative. I have scraped comments using youtube_comment_scraper_python library by bot-studio.
 
 ## Deployed model on Heroku
-[link](https://sentiment-analysis-isi-chennai.herokuapp.com/) 
+[Sentiment Analysis ISI Chennai 2023](https://sentiment-analysis-isi-chennai.herokuapp.com/) 
 
 ## How the model works!
 ![](https://github.com/skillcate/sentiment_analysis_with_sklearn_pipeline/blob/main/readme/model-functionality.gif)
