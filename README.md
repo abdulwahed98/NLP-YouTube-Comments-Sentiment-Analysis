@@ -5,7 +5,7 @@ An end-to-end toolkit on building a sentiment prediction model with a Jupyer not
 ## Deployed model on Heroku
 [Sentiment Analysis ISI Chennai 2023](https://sentiment-analysis-isi-chennai.herokuapp.com/) 
 
-## I suggest the following modifications to ”Sumsung Galaxy S23 Ultra” developing team based on the negative cooments recieved
+## I suggest the following modifications to ”Sumsung Galaxy S23 Ultra” developing team based on the negative comments recieved
 • To include expandable memory card slot for upcoming version.
 • To use the better processor for upcoming version.
 • To include more features than previous model for upcoming
