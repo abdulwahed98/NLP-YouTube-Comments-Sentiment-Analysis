@@ -1,5 +1,5 @@
 # NLP-YouTube-Comments-Sentiment-Analysis
-# Build + Deploy a Sentiment Analysis Model(on Heroku using flask) to classify YouTube comments into Positive, Neutral & Negative
+# Build + Deploy a Sentiment Analysis Model(on Heroku using flask) to classify YouTube comments for brand image improvement
 An end-to-end toolkit on building a sentiment prediction model with a Jupyer notebook and deploying model on Heroku using flask. Our use case here is review classification of YouTube comments on Samsung Galaxy S23 Ultra into positive, neutral & negative and suggest moddifications to the product to improve brand image of Samsung. I have scraped comments using youtube_comment_scraper_python library by bot-studio.
 
 ## Deployed model on Heroku
